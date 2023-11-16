@@ -18,7 +18,7 @@ The Gray Image Editor is a lightweight image editing tool tailored for grayscale
 - **Crop Image:** Crop a specific region of the image.
 
 ## Getting Started
-1. Clone the repository: `git clone [https://github.com/your-username/ImageFX.git](https://github.com/your-username/ImageFX.git)`
+1. Clone the repository: `git clone https://github.com/marioumacoding/Image_Editor.git`
 2. Build the project using your preferred build system.
 3. Run the executable and start editing your grayscale images.
 
