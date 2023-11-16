@@ -1,7 +1,7 @@
-# ImageFX - Grayscale Image Editor
+# Grayscale BMP Image Editor
 
 ## Overview
-ImageFX is a lightweight image editing tool tailored for grayscale images. It provides a range of features to manipulate and enhance your grayscale images effortlessly.
+The Gray Image Editor is a lightweight image editing tool tailored for grayscale images. It provides a range of features to manipulate and enhance your grayscale images effortlessly.
 
 ## Features
 - **Black and White Conversion:** Transform your image to classic black and white.
